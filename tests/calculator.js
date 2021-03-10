@@ -51,7 +51,7 @@ describe('demo calculator tests', function() {
 
         //element(by.css('[ng-click="doAddition()"]')).click();
 
-        homepage.clickGo1();
+        homepage.clickGo();
 
 
        //let result = element(by.cssContainingText('.ng-binding','5'));
